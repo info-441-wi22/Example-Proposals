@@ -1,10 +1,5 @@
 # Info 441 - Husky Games Center
 
-__Authors:__ Ghislaine Bungingo, Bryan Phan, Collin Santos, Neema Shokri
-
-# Website
-https://huskygamecenter.azurewebsites.net/
-
 # Project Description
 
 ## Overview

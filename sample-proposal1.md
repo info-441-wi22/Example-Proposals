@@ -1,5 +1,5 @@
 # Productivity Space
-Created by: Jaimie Jin, Isabella Heppe, Alan Ngo and Srinidhi Balaraman
+
 ## Project Description
 
 For many people, it’s difficult to quantify concrete measures of time or effort spent on single tasks, or categories of tasks. This makes it harder for people to understand how productively they are using their time, or how they split up time overall. Therefore, in order to address this situation, we have chosen to build Productivity Space, a website focused on helping people better quantify their work, and overall time spent. This website will have task categories that users can choose, as well as tasks that they can add to indicate what they are working on. This website is built mostly for students, as they often need to juggle many different things, like classes and assignments, in a limited period of time. By providing a website that compartmentalizes things that need to be done, we believe that this will give students a better understanding of where their time goes, and help them more easily reflect on, and possibly change the way they divide up task time.
