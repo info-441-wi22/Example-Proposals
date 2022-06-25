@@ -16,7 +16,7 @@ As college students and developers ourselves, we noticed that there were not any
 # Technical Description
 
 ## Architecture Diagram and ERD Diagram
-![image of architectural diagram](images/final-architecture-diagram.jpg)
+![image of architectural diagram](images/final-architecture-diagram.jpeg)
 ![image of ERD diagram](images/erd.png)
 [Miro Board Diagram w/ Additional ERD Diagram](https://miro.com/app/board/uXjVO3_-HAU=/?share_link_id=256322717893)
 
