@@ -13,10 +13,10 @@ We as developers want to build this application because as students we often dea
 
 ### Infrastructure
 #### Architecture Diagram
-![architecture diagram](diagrams/ArchitectureDiagram.jpg)
+![architecture diagram](diagrams/ArchitectureDiagram.jpeg)
 
 #### Database Components
-![database components](diagrams/DatabaseComponents.jpg)
+![database components](diagrams/DatabaseComponents.jpeg)
 
 #### Feature Priorities
 | Priority | User | Description | Technical Implementation |

@@ -1,7 +1,5 @@
 # Info 441 - DevDeck
 
-## Link to our deployed site: 
-
 # Project Description
 
 When people think of social media, most of them will say: Facebook. When people think of networking, most of them will say: LinkedIn. How about places to share the cool front-end project you made for your client-side development class or the personal website you built over the summer? Our target audience will be _developers who want to showcase a portfolio containing their work_. Rather than creating a professional, formal application like LinkedIn, we aspire to create a social media platform similar to Instagram and DevPost where developers can post their development projects and share it to the world.
